@@ -1,9 +1,9 @@
-# Your Project's Title...
+# Green Project
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--green--rstratulat.hlx.page/
+- Live: https://main--green--rstratulat.hlx.live/
 
 ## Installation
 
